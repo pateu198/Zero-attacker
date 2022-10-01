@@ -30,42 +30,42 @@ print(Fore.YELLOW+"""
 command = input('> ')
 
 if command == '1':
-   os.system('cmd /k "python Zero-Tool/ip-locater.py"')
+   os.system("python Zero-Tool/ip-locater.py")
 
 elif command == '2':
-  os.system('cmd /k "python Zero-Tool/Discord-Nuke-Tool.py')
+  os.system("python Zero-Tool/Discord-Nuke-Tool.py")
 
 elif command == '3':
-   os.system('cmd /k "python Zero-Tool/Discord-Token-BruteForce.py')
+   os.system("python Zero-Tool/Discord-Token-BruteForce.py")
 
 elif command == '4':
-    os.system('cmd /k "python Zero-Tool/emailboomber.py')
+    os.system("python Zero-Tool/emailboomber.py")
 
 elif command == '5':
-    os.system('cmd /k "python Zero-Tool/hlocator.py"')
+    os.system("python Zero-Tool/hlocator.py")
 
 elif command == '6':
-    os.system('cmd /k "python Zero-Tool/Port-Scanner.py')
+    os.system("python Zero-Tool/Port-Scanner.py")
 
 elif command == '7':
-    os.system('cmd /k "python Zero-Tool/Sub-Domain-Scanner.py')
+    os.system("python Zero-Tool/Sub-Domain-Scanner.py")
 
 elif command == '8':
-    os.system('cmd /k "python Zero-Tool/ddos.py"')
+    os.system("python Zero-Tool/ddos.py")
 
 elif command == '9':
-    os.system('cmd /k "python Zero-Tool/Discord-Token-Checker.py"')
+    os.system("python Zero-Tool/Discord-Token-Checker.py")
 
 
 elif command == '10':
-    os.system('cmd /k "python Zero-Tool/proxies-generator.py"')
+    os.system("python Zero-Tool/proxies-generator.py")
 
 elif command == '11':
-    os.system('cmd /k "python Zero-Tool/email-generator.py"')
+    os.system("python Zero-Tool/email-generator.py")
 
 
 elif command == '12':
-    os.system('cmd /k "python Zero-Tool/raidtool.py"')
+    os.system("python Zero-Tool/raidtool.py")
 
 
     
