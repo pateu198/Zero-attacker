@@ -25,24 +25,25 @@ print(Fore.YELLOW+"""
 command = input('> ')
 
 if command == '1':
-   os.system('cmd /k "python Zero-Tool/zero.py"')
+   os.system("python Zero-Tool/zero.py")
 
 
 elif command == '2':
-  os.system('cmd /k "python Zero-Web-Hacktool/web_bugger.py"')
-    
+  os.system("python Zero-Web-Hacktool/web_bugger.py")
+
+   
 
 elif command == '3':
-  os.system('cmd /k "python Zero-Gen/start.py"')
+  os.system("python Zero-Gen/start.py")
 
 elif command == '4':
-  os.system('cmd /k "python Spammers(Beta)/spammer.py"')
+  os.system("python Spammers(Beta)/spammer.py")
 
 elif command == '5':
-  os.system('cmd /k "python info.py"')
+  os.system("python info.py")
 
 elif command == '6':
-  os.system('cmd /k "python ZEROSELFBOT-(NOT-HACKING-TOOL)/zeroselfbot.py"')
+  os.system("python ZEROSELFBOT-(NOT-HACKING-TOOL)/zeroselfbot.py")
 
 
     
