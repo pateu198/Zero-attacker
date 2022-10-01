@@ -30,9 +30,9 @@ print(Fore.YELLOW+"""
 command = input('> ')
 
 if command == '1':
-    os.system('cmd /k "python whatsappspammer.py"')
+    os.system("python whatsappspammer.py")
 elif command == '2':
-    os.system('cmd /k "python instagramspammessage.py"')
+    os.system("python instagramspammessage.py")
 
 
 
