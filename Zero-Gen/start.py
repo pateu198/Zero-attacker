@@ -27,10 +27,10 @@ print(Fore.YELLOW+"""
 command = input('> ')
 
 if command == '1':
-    os.system('cmd /k "python Zero-Gen/gen.py"')
+    os.system("python Zero-Gen/gen.py")
 
 elif command == '2':
-    os.system('cmd /k "python Zero-Gen/info.py"')
+    os.system("python Zero-Gen/info.py")
 
 
 
